@@ -1,2 +1,2 @@
 # Python-learn
-python learn script
+python 官方文档学习笔记

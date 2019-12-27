@@ -11,7 +11,7 @@ python -m pip install --upgrade pip
 ### No module named 'pip'
 
 ```
-python -m ensurepip包
+python -m ensurepip
 ```
 
 ### [包管理](https://pypi.org/)工具pip的使用
